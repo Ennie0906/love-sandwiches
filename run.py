@@ -63,7 +63,7 @@ def update_sales_worksheet(data):
     sales_worksheet.append_row(data)
     print("Sales worksheet updated succesfuly.\n")
 
-
+ 
 def update_surplus_worksheet(data):
     """
     update surplus worksheet, add new row with the list data provided
